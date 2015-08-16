@@ -3,8 +3,6 @@ title: "Reproducible Research: Peer Assessment 1"
 output: 
   html_document:
     keep_md: true
-
-knitt2html("PA1_template.Rmd");browseURL("PA1_template.html")
 ---
 # Reproducible Research: Peer Assessment 1
 
